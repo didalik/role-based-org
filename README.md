@@ -1,6 +1,6 @@
 # Дід Alik &amp; the Kids
 
-Hi there, I'm Дід Alik. Welcome to <i>Дід Alik &amp; the Kids</i> - a distributed [role-based](https://www.calmachiever.com/holacracy-role-based-structure) organisation I created on [GitHub](https://github.com/didalik) to support my hobby project [Stellar Help Exchange](https://github.com/amissine/shex). When/if the project is of any use, I will need Associates and Partners to join the **Org**.
+Hi there, I'm Дід Alik. Welcome to <i>Дід Alik &amp; the Kids</i> - a distributed [role-based](https://www.calmachiever.com/holacracy-role-based-structure) organisation (**the Org**) I created on [GitHub](https://github.com/didalik) to support my hobby project [Stellar Help Exchange](https://github.com/amissine/shex). When/if the project is of any use, I will need Associates and Partners to join the Org.
 
 Within the Org, everyone is a kid - including myself. And kids have roles. Both kids and roles are associated with Linux accounts. Physically, the Org is a set of Linux hosts. If kid <i>K</i> has role <i>R</i>, she can SSH to <i>R@Rhost</i> and access the Git repositories role <i>R</i> holds. Also, kid <i>K</i> can allow kid <i>A</i> to SSH to <i>K@Khost</i> by adding <i>A</i>'s public key to <i>K</i>'s `~/.ssh/authorized_keys` file. One way role accounts differ from kid accounts is that only the Org's **configuration utils** can access a role's `~/.ssh/authorized_keys` file.
 
